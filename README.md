@@ -1,1 +1,2 @@
 # serverAutomation
+# hugo-test
